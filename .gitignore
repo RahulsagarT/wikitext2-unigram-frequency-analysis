@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.cache/
+.DS_Store
+.vscode/
+.idea/
+
+# Raw dataset files (download them yourself)
+wiki.*.tokens
+wiki.*.raw
+data/
